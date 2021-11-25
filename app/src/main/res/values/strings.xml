@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoSharingApp</string>
+    <string name="passwordText">Password Enter</string>
+    <string name="emailText">Email Enter</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+</resources>

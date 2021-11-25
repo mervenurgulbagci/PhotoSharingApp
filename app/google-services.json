@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65739421303",
+    "project_id": "photosharing-a4e10",
+    "storage_bucket": "photosharing-a4e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65739421303:android:07f104ef6192139c4df872",
+        "android_client_info": {
+          "package_name": "com.mnb.photosharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65739421303-iv00q49996v086geu8n6bgt051rdr09l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwDcjXW75AC-fEho6HPq6a2zevspRYPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65739421303-iv00q49996v086geu8n6bgt051rdr09l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
